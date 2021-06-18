@@ -1,4 +1,4 @@
-# [![Banner Header](https://raw.githubusercontent.com/GitFitDev/GitFitDev/main/icon/bannner.png)](https://www.linkedin.com/in/courtney-revada-3135ba13a/)
+# [![Banner Header](https://raw.githubusercontent.com/GitFitDev/GitFitDev/main/icon/banner.png)](https://www.linkedin.com/in/courtney-revada-3135ba13a/)
 
 <a href="https://twitter.com/courtneyrevada"><img height="30" src="https://github.com/GitFitDev/GitFitDev/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/courtneyrevada.io"><img height="30" src="https://github.com/GitFitDev/GitFitDev/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
